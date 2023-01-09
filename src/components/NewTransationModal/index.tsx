@@ -4,7 +4,6 @@ import closeImg from "../../assets/close.svg";
 import incomeImg from "../../assets/income.svg";
 import outcomeImg from "../../assets/outcome.svg";
 import { FormEvent, useContext, useState } from 'react';
-import { api } from '../../services/api';
 //import { TransactionsContext } from '../../useTransactionsContext';
 import { useTransactionsContext } from '../../hooks/useTransactionsContext';
 
